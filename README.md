@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-A sophomore at  <a href="https://unec.edu.az/">UNEC</a>, Baku Azerbaijan, pursuing Master degree in Software Engineering.
+Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a href="https://unec.edu.az/">UNEC</a>.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
