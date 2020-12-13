@@ -41,7 +41,7 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/4348417189e1f7f64d07e1373b16e9a61bc8de4b0ff78238417528850701649b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6e706d2e737667" alt="NPM" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" alt="Babel" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;
