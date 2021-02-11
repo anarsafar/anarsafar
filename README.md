@@ -11,9 +11,9 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Tailwind CSS Online Course.</li>
-    <li>Learning drawing some UI in Adobe XD.</li>
-    <li>Looking forward to take a Dart, Flutter Course in future besides school curriculum.</li>
+    <li>Taking a Data Structures and Algorithms Online Course.</li>
+    <li>Learning Linux basics</li>
+    <li>Looking forward to take a Back-end Course in future besides school curriculum.</li>
     <li>Inquiring more about UX/UI.</li>
     <li>🔜</li>
   </ul>
