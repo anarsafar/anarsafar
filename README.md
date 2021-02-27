@@ -11,9 +11,9 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Data Structures and Algorithms Online Course.</li>
-    <li>Learning Linux basics</li>
-    <li>Looking forward to take a Back-end Course in future besides school curriculum.</li>
+    <li>Taking a Node.js online course</li>
+    <li>Learning Back-end development basics</li>
+    <li>Looking forward to take a Data Structures and Algoritms Course in future besides school curriculum.</li>
     <li>Inquiring more about UX/UI.</li>
     <li>🔜</li>
   </ul>
@@ -34,6 +34,8 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
 **Languages, Frameworks and Tools:**
 <p align="left">
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="SASS" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></code>&nbsp;
