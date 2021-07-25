@@ -11,9 +11,9 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Node.js online course</li>
-    <li>Learning Back-end development basics</li>
-    <li>Looking forward to take a Data Structures and Algoritms Course in future besides school curriculum.</li>
+    <li>Refreshing Front-End skills by taking inline courses</li>
+    <li>Creating portfolio projects</li>
+    <li>Looking forward to take a Data Structures and Algoritms Course</li>
     <li>Inquiring more about UX/UI.</li>
     <li>🔜</li>
   </ul>
@@ -24,7 +24,7 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Learn to code 6-7 hours a day with no distraction ( One day off a week. )</li>
+    <li>Learn to code 5-6 hours a day with no distraction ( One day off a week. )</li>
     <li>Avoid over using social media</li>
     <li>Read more books</li>
     <li>🔜</li>
@@ -44,11 +44,9 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" /></code>&nbsp;
       <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></code>&nbsp;
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/4348417189e1f7f64d07e1373b16e9a61bc8de4b0ff78238417528850701649b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6e706d2e737667" alt="NPM" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></code>&nbsp;
 </p>
 
 **Connect with me:**
