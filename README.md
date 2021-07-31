@@ -11,7 +11,7 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Refreshing Front-End skills by taking inline courses</li>
+    <li>Refreshing Front-End skills by taking online courses</li>
     <li>Creating portfolio projects</li>
     <li>Looking forward to take a Data Structures and Algoritms Course</li>
     <li>Inquiring more about UX/UI.</li>
