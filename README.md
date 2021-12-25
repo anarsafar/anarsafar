@@ -55,7 +55,8 @@ Live in Baku and pursuing master degree in software engineering at <a href="http
 
 ## 📈 Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anarseferrov&layout=compact&hide_border=true&show_icons=true&theme=react&hide=contribs,prs" height="150px" width="50%"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anarseferrov&layout=compact&hide_border=true&show_icons=true&theme=react"   width="48%" height="192px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarseferrov&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px" width="50%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarseferrov&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook"  width="48%" height="192px"/>
+</p>
