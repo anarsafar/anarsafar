@@ -1,10 +1,14 @@
-# Welcome 🙋🏻‍♂️
+<h2>Hey, I am Anar Seferov! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### I'm Anar Seferov
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/anarseferrov)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/anarseferov/) 
+[![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+ <img src="https://github.com/Asmit2952/Asmit2952/blob/master/src/header_.png" />
+ 
+Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for over 1.5 years. I am currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
-Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a href="https://unec.edu.az/">UNEC</a>.
+<img alt="Dev" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right"/>
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -32,24 +36,26 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
 
 **Languages, Frameworks and Tools:**
 <p align="left">
-   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40"      height="40" /></code>&nbsp;
+      <p>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40"      height="40" /></code>&nbsp;
     <code><img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="SASS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></code>&nbsp;
+      </p>
       <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" /></code>&nbsp;
       <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/4348417189e1f7f64d07e1373b16e9a61bc8de4b0ff78238417528850701649b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6e706d2e737667" alt="NPM" width="40" height="40" /></code>&nbsp;
 </p>
 
-**Connect with me:**
-<p align="left">
-  <a href="https://www.linkedin.com/in/anarseferov/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/anarseferrov" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="twitter" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
+## 📈 Github Stats
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anarseferrov&layout=compact&hide_border=true&show_icons=true&theme=react&hide=contribs,prs" height="150px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarseferrov&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px" />
+
