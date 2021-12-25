@@ -21,7 +21,6 @@ Living in Baku Azerbaijan, pursuing Master degree in Software Engineering at <a 
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
     <li>Learn to code 5-6 hours a day with no distraction ( One day off a week. )</li>
