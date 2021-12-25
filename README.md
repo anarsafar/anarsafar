@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/anarseferrov)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/anarseferov/) 
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanarseferrov&count_bg=%23B29F17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true" height="27px"/></a>
 
  <img src="https://github.com/Asmit2952/Asmit2952/blob/master/src/header_.png" />
  
