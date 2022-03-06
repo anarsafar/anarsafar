@@ -1,7 +1,7 @@
 <h2>Hey, I am Anar Seferov! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/anarseferrov)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/anarseferov/) 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anarseferov/) 
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
 
  <img src="https://github.com/Asmit2952/Asmit2952/blob/master/src/header_.png" />
