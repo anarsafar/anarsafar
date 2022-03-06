@@ -1,6 +1,6 @@
 <h2>Hey, I am Anar! Great to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/anarseferrov)
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/ianarseferov)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anarseferov/) 
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
 
@@ -56,7 +56,7 @@ Live in Baku and pursuing master degree in software engineering at <a href="http
 ## 📈 Github Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anarseferrov&layout=compact&hide_border=true&show_icons=true&theme=react"   width="48%" height="192px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ianarseferov&layout=compact&hide_border=true&show_icons=true&theme=react"   width="48%" height="192px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarseferrov&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook"  width="48%" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianarseferov&langs_count=8&layout=compact&theme=react&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook"  width="48%" height="192px"/>
 </p>
