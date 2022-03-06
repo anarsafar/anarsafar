@@ -8,7 +8,7 @@
  
 Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for over 1.5 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
-<img alt="Dev" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right"/>
+<!-- <img alt="Dev" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right"/> -->
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -44,13 +44,13 @@ Live in Baku and pursuing master degree in software engineering at <a href="http
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></code>&nbsp;
-      </p>
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></code>&nbsp;
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
       <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/4348417189e1f7f64d07e1373b16e9a61bc8de4b0ff78238417528850701649b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6e706d2e737667" alt="NPM" width="40" height="40" /></code>&nbsp;
+      </p>
 </p>
 
 ## 📈 Github Stats
