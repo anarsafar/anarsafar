@@ -6,7 +6,7 @@
 
  <img src="https://github.com/Asmit2952/Asmit2952/blob/master/src/header_.png" />
  
-Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for over 1.5 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
+Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for about 2 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
 <!-- <img alt="Dev" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right"/> -->
 
