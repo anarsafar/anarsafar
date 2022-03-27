@@ -8,8 +8,6 @@
  
 Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for about 2 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
-<!-- <img alt="Dev" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right"/> -->
-
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
   <summary>I'm currently working on a couple of things besides the college. </summary>
