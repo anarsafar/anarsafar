@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/ianarseferov)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anarseferov/) 
 [![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
-
- <img src="https://github.com/Asmit2952/Asmit2952/blob/master/src/header_.png" />
  
 Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for about 2 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
