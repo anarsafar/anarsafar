@@ -8,12 +8,12 @@ Live in Baku and pursuing master degree in software engineering at <a href="http
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the college. </summary>
+  <summary>I'm currently working on a couple of things besides the college.</summary>
   <ul>
     <br>
     <li>Refreshing Front-End skills by taking online courses</li>
-    <li>Creating portfolio projects</li>
-    <li>Looking forward to take a Data Structures and Algoritms Course</li>
+    <li>Creating Landing page with Tailwind CSS</li>
+    <li>Learing a Data Structures and Algoritms</li>
     <li>Inquiring more about UX/UI.</li>
     <li>🔜</li>
   </ul>
@@ -23,7 +23,7 @@ Live in Baku and pursuing master degree in software engineering at <a href="http
 <details>
   <ul>
     <br>
-    <li>Learn to code 5-6 hours a day with no distraction ( One day off a week. )</li>
+    <li>Learn to code 7-8 hours a day with no distraction ( One day off a week. )</li>
     <li>Avoid over using social media</li>
     <li>Read more books</li>
     <li>🔜</li>
