@@ -6,30 +6,6 @@
  
 Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for about 2 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
-<h3>💼 Things that I'm currently working on:</h3>
-<details>
-  <summary>I'm currently working on a couple of things besides the college.</summary>
-  <ul>
-    <br>
-    <li>Refreshing Front-End skills by taking online courses</li>
-    <li>Creating Landing page with Tailwind CSS</li>
-    <li>Learing a Data Structures and Algoritms</li>
-    <li>Inquiring more about UX/UI.</li>
-    <li>🔜</li>
-  </ul>
-</details>
-
-### 🌱 Challenges that I’m currently challenging myself:
-<details>
-  <ul>
-    <br>
-    <li>Learn to code 7-8 hours a day with no distraction ( One day off a week. )</li>
-    <li>Avoid over using social media</li>
-    <li>Read more books</li>
-    <li>🔜</li>
-  </ul>
-</details>
-
 **Languages, Frameworks and Tools:**
 <p align="left">
       <p>
