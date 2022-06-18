@@ -2,28 +2,9 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)](https://github.com/ianarseferov)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anarseferov/) 
-[![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferrov@outlook.com)
+[![Contact](https://img.shields.io/badge/CONTACT-MAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarseferov.dev@gmail.com)
  
-Live in Baku and pursuing master degree in software engineering at <a href="https://unec.edu.az/">UNEC</a> University🏫. I developed myself on the web for about 2 years. Currently open work as a front end developer👨‍💻. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
-
-**Languages, Frameworks and Tools:**
-<p align="left">
-      <p>
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /></code>&nbsp;
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40"      height="40" /></code>&nbsp;
-    <code><img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="SASS" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="40" height="40" /></code>&nbsp;
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></code>&nbsp;
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></code>&nbsp;
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://camo.githubusercontent.com/4348417189e1f7f64d07e1373b16e9a61bc8de4b0ff78238417528850701649b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6e706d2e737667" alt="NPM" width="40" height="40" /></code>&nbsp;
-      </p>
-</p>
+Live in Baku, Azerbaijan. I developed myself on the web for 2+ years. I am a Tech enthusiast and designer, always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me  at my desk sketching stuff. Find out more about me & feel free to connect with me. 
 
 ## 📈 Github Stats
 
