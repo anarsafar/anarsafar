@@ -1,1 +1,28 @@
-<h1>Hey, I am Anar! Great to see you here!</h1>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aanarsafar@outlook.com)](mailto:anarsafar@outlook.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/ismailhabibi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anarsfarov?style=social)](https://twitter.com/intent/follow?screen_name=anarsfarov)
+[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/ismlhbb)
+
+#### I'm a Full-Stack Developer based in Baku, Azerbaijan.
+
+[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=anarsafar&show_icons=true"/>](https://github.com/anarsafar/)
+
+- 🏢 I'm currently working full-time instuctor at **Code Academy** with awesome peeps 
+- 🌱 Learning more about and studying: **Open Source, React Native, CS Algorithms**
+- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**
+- 🖤 Interests: huge Rock fan, art enthusiast, movies
+- 😄 Passionate about accessibility and committed to a web that works for everyone
+ 
+<div>
+  <h3>💻 Languages and Tools </h3>
+  <p>
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+  <p>
+</div> 
