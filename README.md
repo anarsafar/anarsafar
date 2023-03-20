@@ -13,8 +13,6 @@
 - 🖤 Interests: huge Rock fan, art enthusiast, movies
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
-[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=anarsafar&show_icons=true"/>](https://github.com/anarsafar/)
-
 <div>
   <h3>💻 Languages and Tools </h3>
   <p>
@@ -26,3 +24,5 @@
     <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </div> 
+
+[<img width="400" src="https://github-readme-stats.vercel.app/api?username=anarsafar&show_icons=true"/>](https://github.com/anarsafar/)
