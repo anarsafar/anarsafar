@@ -9,7 +9,7 @@
 
 - 🏢 I'm currently working full-time instuctor at **Code Academy** with awesome peeps 
 - 🌱 Learning more about and studying: **Open Source, React Native, CS Algorithms**
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**
+- 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**
 - 🖤 Interests: huge Rock fan, art enthusiast, movies
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
