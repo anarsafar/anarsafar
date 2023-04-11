@@ -6,7 +6,6 @@
 <!-- [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanarsafarov)](https://linkedin.com/in/anarsafarov) -->
 #### I'm a Full-Stack Developer based in Baku, Azerbaijan.
 
-- 🏢 I'm currently working full-time instuctor at **Code Academy** with awesome peeps 
 - 🌱 Learning more about and studying: **Open Source, React Native, CS Algorithms**
 - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**
 - 🖤 Interests: huge Rock fan, art enthusiast, movies
