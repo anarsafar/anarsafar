@@ -1,8 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aanarsafar@outlook.com)](mailto:anarsafar@outlook.com)
+[![Email URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aanarsafarov@proton.me)](mailto:anarsafarov@proton.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anarsfarov?style=social)](https://twitter.com/intent/follow?screen_name=anarsfarov)
-[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fanarsafarov)](https://t.me/anarsafarov)
+<!-- [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fanarsafarov)](https://t.me/anarsafarov) -->
 <!-- [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanarsafarov)](https://linkedin.com/in/anarsafarov) -->
 #### I'm a Full-Stack Developer based in Baku, Azerbaijan.
 
