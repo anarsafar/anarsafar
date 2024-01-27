@@ -11,7 +11,7 @@
 - 🖤 Interests: Huge Rock fan, art enthusiast, movies
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
-<div>
+<!--<div>
   <h3>💻 Languages and Tools </h3>
   <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
@@ -21,6 +21,6 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
     <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
-</div> 
+</div>--> 
 
 [<img width="400" src="https://github-readme-stats.vercel.app/api?username=anarsafar&show_icons=true"/>](https://github.com/anarsafar/)
