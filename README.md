@@ -4,7 +4,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anarsfarov?style=social)](https://twitter.com/intent/follow?screen_name=anarsfarov) -->
 <!-- [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fanarsafarov)](https://t.me/anarsafarov) -->
 <!-- [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanarsafarov)](https://linkedin.com/in/anarsafarov) -->
-#### I'm a Full-Stack Developer based in Baku, Azerbaijan.
+<!-- #### I'm a Full-Stack Developer based in Baku, Azerbaijan. -->
 
 <!-- - 🌱 Learning more about and studying: **Open Source, Design Patterns, CS Algorithms**
 - 💬 Ping me about: **web design**, **diversity & inclusion**, **mentorship**
